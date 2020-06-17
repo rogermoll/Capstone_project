@@ -1,0 +1,190 @@
+﻿Location,City,Country,Cost
+"Tirana, Albania",Tirana,Albania,1663.71
+"Vienna, Austria",Vienna,Austria,7138.82
+"Linz, Austria",Linz,Austria,4074.44
+"Graz, Austria",Graz,Austria,3745
+"Minsk, Belarus",Minsk,Belarus,1477.79
+"Brussels, Belgium",Brussels,Belgium,3353.41
+"Gent, Belgium",Gent,Belgium,3233.2
+"Antwerp, Belgium",Antwerp,Belgium,2764.75
+"Sarajevo, Bosnia And Herzegovina",Sarajevo,Bosnia And Herzegovina,1747.52
+"Banja Luka, Bosnia And Herzegovina",Banja Luka,Bosnia And Herzegovina,1368.51
+"Sofia, Bulgaria",Sofia,Bulgaria,1620.31
+"Varna, Bulgaria",Varna,Bulgaria,1130.79
+"Burgas, Bulgaria",Burgas,Bulgaria,1051.33
+"Plovdiv, Bulgaria",Plovdiv,Bulgaria,989.69
+"Dubrovnik, Croatia",Dubrovnik,Croatia,7876
+"Split, Croatia",Split,Croatia,3244.99
+"Zagreb, Croatia",Zagreb,Croatia,2816.07
+"Rijeka, Croatia",Rijeka,Croatia,1736.52
+"Osijek, Croatia",Osijek,Croatia,1202.36
+"Prague, Czech Republic",Prague,Czech Republic,4907.62
+"Brno, Czech Republic",Brno,Czech Republic,2742.02
+"Olomouc, Czech Republic",Olomouc,Czech Republic,1736.2
+"Ostrava, Czech Republic",Ostrava,Czech Republic,1090.26
+"Copenhagen, Denmark",Copenhagen,Denmark,6274.36
+"Arhus, Denmark",Arhus,Denmark,4695.11
+"Aalborg, Denmark",Aalborg,Denmark,3844.44
+"Tallinn, Estonia",Tallinn,Estonia,2613.12
+"Tartu, Estonia",Tartu,Estonia,2068.81
+"Helsinki, Finland",Helsinki,Finland,7762.1
+"Espoo, Finland",Espoo,Finland,4820
+"Tampere, Finland",Tampere,Finland,4798.12
+"Turku, Finland",Turku,Finland,3815.42
+"Paris, France",Paris,France,11813.02
+"Lyon, France",Lyon,France,4871.11
+"Toulouse, France",Toulouse,France,4412.5
+"Montpellier, France",Montpellier,France,3575
+"Marseille, France",Marseille,France,3125
+"Lille, France",Lille,France,3025
+"Munich, Germany",Munich,Germany,11133.33
+"Frankfurt, Germany",Frankfurt,Germany,6694.74
+"Hamburg, Germany",Hamburg,Germany,6370.68
+"Dusseldorf, Germany",Dusseldorf,Germany,6250
+"Stuttgart, Germany",Stuttgart,Germany,6076.67
+"Berlin, Germany",Berlin,Germany,5858.81
+"Cologne, Germany",Cologne,Germany,5437.5
+"Nuremberg, Germany",Nuremberg,Germany,4787.5
+"Hanover, Germany",Hanover,Germany,4308.67
+"Karlsruhe, Germany",Karlsruhe,Germany,4286.67
+"Bremen, Germany",Bremen,Germany,3850
+"Leipzig, Germany",Leipzig,Germany,3483.33
+"Dresden, Germany",Dresden,Germany,3375
+"Mannheim, Germany",Mannheim,Germany,3220.6
+"Athens, Greece",Athens,Greece,2058.7
+"Thessaloniki, Greece",Thessaloniki,Greece,1746.67
+"Heraklion, Greece",Heraklion,Greece,1666.67
+"Patras, Greece",Patras,Greece,1372
+"Budapest, Hungary",Budapest,Hungary,2937.22
+"Debrecen, Hungary",Debrecen,Hungary,1461.1
+"Szeged, Hungary",Szeged,Hungary,1280.46
+"Reykjavik, Iceland",Reykjavik,Iceland,4027
+"Dublin, Ireland",Dublin,Ireland,5600.78
+"Cork, Ireland",Cork,Ireland,3184.62
+"Limerick, Ireland",Limerick,Ireland,2075
+"Milan, Italy",Milan,Italy,8696.93
+"Rome, Italy",Rome,Italy,6603.23
+"Florence, Italy",Florence,Italy,5044.12
+"Naples, Italy",Naples,Italy,3628.42
+"Bologna, Italy",Bologna,Italy,3553.42
+"Turin, Italy",Turin,Italy,3435.42
+"Parma, Italy",Parma,Italy,3428.57
+"Genoa, Italy",Genoa,Italy,3106.25
+"Trieste, Italy",Trieste,Italy,2455
+"Padova, Italy",Padova,Italy,2342
+"Catania, Italy",Catania,Italy,2325
+"Palermo, Italy",Palermo,Italy,2277.67
+"Pristina, Kosovo (Disputed Territory)",Pristina,Kosovo (Disputed Territory),1147.06
+"Riga, Latvia",Riga,Latvia,1984.85
+"Vilnius, Lithuania",Vilnius,Lithuania,2713.05
+"Kaunas, Lithuania",Kaunas,Lithuania,2007.62
+"Klaipeda, Lithuania",Klaipeda,Lithuania,1562.5
+"Luxembourg, Luxembourg",Luxembourg,Luxembourg,9728.09
+"Chisinau, Moldova",Chisinau,Moldova,944.71
+"Podgorica, Montenegro",Podgorica,Montenegro,1419.19
+"Amsterdam, Netherlands",Amsterdam,Netherlands,7532.01
+"Haarlem, Netherlands",Haarlem,Netherlands,5883.75
+"Utrecht, Netherlands",Utrecht,Netherlands,4655.44
+"Delft, Netherlands",Delft,Netherlands,3987.5
+"Rotterdam, Netherlands",Rotterdam,Netherlands,3727.53
+"The Hague (Den Haag), Netherlands",The Hague (Den Haag),Netherlands,3708.78
+"Eindhoven, Netherlands",Eindhoven,Netherlands,3645
+"Groningen, Netherlands",Groningen,Netherlands,2920
+"Skopje, North Macedonia",Skopje,North Macedonia,1224.5
+"Oslo, Norway",Oslo,Norway,7579.32
+"Trondheim, Norway",Trondheim,Norway,5331.03
+"Bergen, Norway",Bergen,Norway,4805.51
+"Stavanger, Norway",Stavanger,Norway,4800.34
+"Warsaw, Poland",Warsaw,Poland,3319.47
+"Gdansk, Poland",Gdansk,Poland,2982.37
+"Krakow (Cracow), Poland",Krakow (Cracow),Poland,2846.07
+"Gdynia, Poland",Gdynia,Poland,2588.06
+"Wroclaw, Poland",Wroclaw,Poland,2537.4
+"Poznan, Poland",Poznan,Poland,2472.13
+"Katowice, Poland",Katowice,Poland,1663.07
+"Lodz, Poland",Lodz,Poland,1568.57
+"Lublin, Poland",Lublin,Poland,1547.46
+"Szczecin, Poland",Szczecin,Poland,1510.58
+"Lisbon, Portugal",Lisbon,Portugal,4448.08
+"Porto, Portugal",Porto,Portugal,2610.55
+"Coimbra, Portugal",Coimbra,Portugal,2262.5
+"Braga, Portugal",Braga,Portugal,1481.25
+"Cluj-Napoca, Romania",Cluj-Napoca,Romania,1976.43
+"Bucharest, Romania",Bucharest,Romania,1878.34
+"Iasi, Romania",Iasi,Romania,1429.08
+"Brasov, Romania",Brasov,Romania,1418.23
+"Timisoara, Romania",Timisoara,Romania,1407.95
+"Craiova, Romania",Craiova,Romania,1264.86
+"Sibiu, Romania",Sibiu,Romania,1250.84
+"Constanta, Romania",Constanta,Romania,1177.54
+"Oradea, Romania",Oradea,Romania,1022.22
+"Ploiesti, Romania",Ploiesti,Romania,944.25
+"Arad, Romania",Arad,Romania,759.69
+"Moscow, Russia",Moscow,Russia,4732.71
+"Saint Petersburg, Russia",Saint Petersburg,Russia,2307.9
+"Vladivostok, Russia",Vladivostok,Russia,1628.37
+"Kazan, Russia",Kazan,Russia,1370.7
+"Yekaterinburg, Russia",Yekaterinburg,Russia,1226.1
+"Novosibirsk, Russia",Novosibirsk,Russia,1120.48
+"Nizhny Novgorod, Russia",Nizhny Novgorod,Russia,1111.68
+"Ufa, Russia",Ufa,Russia,1089.44
+"Irkutsk, Russia",Irkutsk,Russia,1010.77
+"Samara, Russia",Samara,Russia,977.17
+"Krasnodar, Russia",Krasnodar,Russia,961.76
+"Perm, Russia",Perm,Russia,919.84
+"Rostov-na-donu, Russia",Rostov-na-donu,Russia,902.65
+"Tomsk, Russia",Tomsk,Russia,899.71
+"Krasnoyarsk, Russia",Krasnoyarsk,Russia,882.89
+"Kaliningrad, Russia",Kaliningrad,Russia,806.64
+"Voronezh, Russia",Voronezh,Russia,799.17
+"Volgograd, Russia",Volgograd,Russia,740.24
+"Izhevsk, Russia",Izhevsk,Russia,700.93
+"Saratov, Russia",Saratov,Russia,654.07
+"Chelyabinsk, Russia",Chelyabinsk,Russia,652.05
+"Belgrade, Serbia",Belgrade,Serbia,2542.5
+"Novi Sad, Serbia",Novi Sad,Serbia,1690.41
+"Nis, Serbia",Nis,Serbia,1129.17
+"Bratislava, Slovakia",Bratislava,Slovakia,3496
+"Kosice, Slovakia",Kosice,Slovakia,1905.56
+"Ljubljana, Slovenia",Ljubljana,Slovenia,3694.29
+"Maribor, Slovenia",Maribor,Slovenia,1484.62
+"Madrid, Spain",Madrid,Spain,5193.56
+"Barcelona, Spain",Barcelona,Spain,4524.33
+"Bilbao, Spain",Bilbao,Spain,4436.65
+"Palma de Mallorca, Spain",Palma de Mallorca,Spain,3831.25
+"Malaga, Spain",Malaga,Spain,2983.33
+"Valencia, Spain",Valencia,Spain,2723
+"Alicante, Spain",Alicante,Spain,2575
+"Seville (Sevilla), Spain",Seville (Sevilla),Spain,2516.67
+"Granada, Spain",Granada,Spain,2291.67
+"Santa Cruz de Tenerife, Spain",Santa Cruz de Tenerife,Spain,2000
+"Stockholm, Sweden",Stockholm,Sweden,8943.14
+"Gothenburg, Sweden",Gothenburg,Sweden,5576.9
+"Uppsala, Sweden",Uppsala,Sweden,4480.04
+"Malmo, Sweden",Malmo,Sweden,3720.56
+"Geneva, Switzerland",Geneva,Switzerland,12336.96
+"Zurich, Switzerland",Zurich,Switzerland,11728.95
+"Lausanne, Switzerland",Lausanne,Switzerland,10484.47
+"Basel, Switzerland",Basel,Switzerland,10468.9
+"Lugano, Switzerland",Lugano,Switzerland,10461.12
+"Bern, Switzerland",Bern,Switzerland,7300.61
+"Kiev (Kyiv), Ukraine",Kiev (Kyiv),Ukraine,1654.58
+"Lviv, Ukraine",Lviv,Ukraine,1084.54
+"Odessa (Odesa), Ukraine",Odessa (Odesa),Ukraine,1024.32
+"Kharkiv, Ukraine",Kharkiv,Ukraine,910.49
+"Dnipro, Ukraine",Dnipro,Ukraine,826.69
+"Vinnytsia, Ukraine",Vinnytsia,Ukraine,690
+"Mykolaiv, Ukraine",Mykolaiv,Ukraine,549.02
+"Sumy, Ukraine",Sumy,Ukraine,449.01
+"Zaporizhzhya, Ukraine",Zaporizhzhya,Ukraine,337.4
+"London, United Kingdom",London,United Kingdom,12412.5
+"Brighton, United Kingdom",Brighton,United Kingdom,6647.06
+"Cambridge, United Kingdom",Cambridge,United Kingdom,6486.62
+"Bristol, United Kingdom",Bristol,United Kingdom,5034.45
+"Edinburgh, United Kingdom",Edinburgh,United Kingdom,4502.84
+"Liverpool, United Kingdom",Liverpool,United Kingdom,4385.91
+"Manchester, United Kingdom",Manchester,United Kingdom,4238.8
+"Glasgow, United Kingdom",Glasgow,United Kingdom,4012.8
+"Southampton, United Kingdom",Southampton,United Kingdom,3890.53
+"Birmingham, United Kingdom",Birmingham,United Kingdom,3469.06
+"Belfast, United Kingdom",Belfast,United Kingdom,2089.21
