@@ -1,0 +1,35 @@
+﻿DistrictNb,DistrictName,Neighborhood,postalcode,Area,Population,Non-Swiss Citizens,latitude,longitude
+Kreis 1,Altstadt,Rathaus,8001,0.38,"3,081",23.90%,47.372,8.5413
+Kreis 1,Altstadt,Hochschulen,8001,0.56,695,27.50%,47.372,8.5413
+Kreis 1,Altstadt,Lindenhof,8001,0.23,950,20.30%,47.372,8.5413
+Kreis 1,Altstadt,City,8001,0.64,846,28.30%,47.372,8.5413
+Kreis 2,na,Wollishofen,8038,5.75,"15,592",22.90%,47.3416,8.5369
+Kreis 2,na,Leimbach,8041,2.92,"4,867",23.00%,47.3361,8.5156
+Kreis 2,na,Enge,8027,2.4,"8,375",26.00%,47.3667,8.55
+Kreis 3,Wiedikon,Alt-Wiedikon,8036,1.85,"14,971",32.30%,47.3667,8.55
+Kreis 3,Wiedikon,Friesenberg,8036,5.15,"10,360",22.90%,47.3667,8.55
+Kreis 3,Wiedikon,Sihlfeld,8036,1.64,"20,554",36.50%,47.3667,8.55
+Kreis 4,Aussersihl,Werd,8026,0.31,"3,878",33.20%,47.3667,8.55
+Kreis 4,Aussersihl,Langstrasse,8026,1.13,"10,368",41.50%,47.3667,8.55
+Kreis 4,Aussersihl,Hard,8026,1.46,"12,715",46.20%,47.3667,8.55
+Kreis 5,Industriequartier,Gewerbeschule,8031,0.73,"9,690",39.30%,47.3667,8.55
+Kreis 5,Industriequartier,Escher Wyss,8031,1.27,"2,727",26.10%,47.3667,8.55
+Kreis 6,Industriequartier,Unterstrass,8031,2.46,"19,921",23.60%,47.3667,8.55
+Kreis 6,Industriequartier,Oberstrass,8031,2.64,"9,494",24.70%,47.3667,8.55
+Kreis 7,na,Fluntern,8028,2.84,"7,325",23.70%,47.382,8.5663
+Kreis 7,na,Hottingen,8030,5.05,"10,100",23.60%,47.3667,8.55
+Kreis 7,na,Hirslanden,8029,2.2,"6,859",19.40%,47.3656,8.572
+Kreis 7,na,Witikon,8053,4.93,"9,864",17.30%,47.3613,8.5974
+Kreis 8,Riesbach,Seefeld,8034,2.45,"4,923",28.70%,47.3667,8.55
+Kreis 8,Riesbach,Mühlebach,8034,0.63,"5,577",24.60%,47.3667,8.55
+Kreis 8,Riesbach,Weinegg,8034,1.72,"4,843",25.30%,47.3667,8.55
+Kreis 9,na,Albisrieden,8047,4.6,"17,226",25.60%,47.3739,8.487
+Kreis 9,na,Altstetten,8048,7.47,"28,278",37.00%,47.3868,8.4839
+Kreis 10,na,Höngg,8049,6.98,"20,773",19.60%,47.4087,8.5004
+Kreis 10,na,Wipkingen,8037,2.11,"15,446",31.10%,47.3985,8.5243
+Kreis 11,na,Affoltern,8046,6.04,"18,733",30.60%,47.4222,8.5083
+Kreis 11,na,Oerlikon,8050,2.67,"19,585",33.70%,47.4119,8.5508
+Kreis 11,na,Seebach,8052,4.72,"19,879",36.00%,47.4245,8.5406
+Kreis 12,Schwamendingen,Saatlen,8051,1.13,"6,727",31.60%,47.3996,8.5788
+Kreis 12,Schwamendingen,Schwamendingen Mitte,8051,2.23,"10,322",40.60%,47.3996,8.5788
+Kreis 12,Schwamendingen,Hirzenbach,8051,2.62,"11,265",37.50%,47.3996,8.5788
